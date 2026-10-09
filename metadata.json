@@ -1,0 +1,6 @@
+{
+  "name": "Lug'at - Ingliz tili lug'at o'rganish ilovasi",
+  "description": "Destination B1 va boshqa darsliklar bo'yicha ingliz tili lug'atlarini fleshkarta, test, bo'limlar tanlash va qidiruv orqali o'rganish ilovasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
